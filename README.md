@@ -30,7 +30,7 @@ xsebastian ✔<br/>
 chapter2 ✔✔<br/>
 adine2 ✔<br/>
 anna2 ✔<br/>
-bryce2 ✘<br/>
+bryce2 ✔ (version Many)<br/>
 lorem2 ✔✔<br/>
 remy2 ✔<br/>
 xemera ✔<br/>
@@ -38,22 +38,22 @@ xzhong ✔ (à reprendre)<br/>
 chapter3 En cours (BananaSplit2)<br/>
 adine3 En cours (alpha the dragon)<br/>
 anna3 En cours (Obscurity Dragon)<br/>
-bryce3 ✘<br/>
+bryce3 ✔ (version Many)<br/>
 lorem3 ✔<br/>
 remy3 ✔<br/>
-xkatsu ✘<br/>
+xkatsu ✔ (version Many)<br/>
 chapter4 En cours (Gone46)<br/>
 adine4 ✘<br/>
-anna4 ✘<br/>
-bryce4 ✘<br/>
+anna4 ✔ (version Many)<br/>
+bryce4 ✔ (version Many)<br/>
 lorem4 ✔<br/>
 remy4 ✔<br/>
 xkevin ✔<br/>
-chapter5 ✘<br/>
-chapter5evilending ✘<br/>
+chapter5 ✔ (fin neutre, version Many)<br/>
+chapter5evilending ✔ (fin du méchant + blabla de Reza, version Many)<br/>
 adine5 ✘<br/>
 anna5 ✘<br/>
-bryce5 ✘<br/>
+bryce5 ✔ (version Many)<br/>
 lorem5 ✔<br/>
 remy5 ✔<br/>
 chapter5trueending ✘<br/>
