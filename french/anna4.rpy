@@ -540,96 +540,6 @@ translate french _call_skipcheck_17_62d3329a:
     # An face "I don't want to cry in front of you. I don't want the attention or the pity. I don't want it."
     An face "Je ne veux pas chialer devant toi, je ne veux pas te faire pitiée ou quoi... merde !..."
 
-
-    if persistent.playedkevin == True:
-
-
-
-        if annastatus == "good":
-
-            menu:
-
-                "Si je peux faire quoi que ce soit...":
-
-                    An disgust "Quoi ? Qu'est-ce que t'as en tête là ?"
-
-                    c "Quelque chose qu'un ami m'a suggeré pour aller un peu mieux..."
-
-                    An "..."
-
-                    An rage "À quoi tu penses au juste !? Et fais gaffe à ce que tu vas me proposer !"
-
-                    menu:
-
-                        "Un bête et innocent câlin...":
-
-                            c "Je sais que ça peut paraître stupide..."
-
-                            An "..."
-
-                            An disgust "..."
-
-                            c "..."
-
-                            An cry "..."
-
-                            An "Et puis merde."
-
-                            hide anna with dissolve
-
-                            play sound "fx/undress.ogg"
-
-                            m "Contre tout attente, elle s'est approchée de moi pour me prendre dans les bras et me serrer fort contre elle."
-
-                            m "Je sentais sa tête au creux de mon cou, elle a alors éclaté en sanglots, j'ai posé deux mains timides sur ses écailles et les ai caressées."
-
-                            if persistent.annagoodending == True:
-
-                                m "Mais au final, elle n'étais pas la seul à se sentir mal. J'ai versé quelques larmes et l'ai serrée contre moi."
-
-                                play sound "fx/purr.ogg"
-
-                                m "La chaleur de ses écailles sous mes mains m'apaisait étrangement, c'est alors que j'ai entendu un grondement apaisant venant de son corps."
-
-
-                            else:
-
-                                pass
-
-
-                            An "J'suis pas une faible !... Juste..."
-
-                            c "Je ne suis pas là pour te juger Anna."
-
-                            An "Merci [player_name]..."
-
-                            m "Elle est restée ainsi quelques longues secondes, puis m'a finalement relâché."
-
-                            show anna cry with dissolve
-
-                            stop sound fadeout 0.5
-
-
-                            An "Tu diras à ton ami que ça fait du bien ce genre de truc... Même si c'est pas ça qui va me guérir."
-
-
-                        "Nan, oublie.":
-
-                            pass
-
-
-
-
-
-                "(Ne rien dire)":
-
-                    pass
-
-
-
-
-
-
 # game/anna4.rpy:329
 translate french anna4skip1_cbbc280d:
 
@@ -1891,18 +1801,6 @@ translate french a4romance_576f6194:
 
     # An face "Alright, alright. So fussy."
     An face "D'accord, d'accord, t'es si délicat..."
-
-    c "Et au fait, ta combinaison pour m'approcher ? Les microbes tout ça, je suis un vrai nid à bactérie tu te rappelles ?"
-
-    An smirk "..."
-
-    hide anna with dissolve
-
-    play sound "fx/impact.wav"
-
-    m "Avant que je puisse dire ou faire quoi que ce soit de plus, la véloçe m'a littéralement et fougueusement sauté dessus."
-
-    An "Pas besoin de combinaison pour ces tests là, mon cobaye à moi..."
 
 # game/anna4.rpy:978
 translate french a4romance_a09c6f72:
